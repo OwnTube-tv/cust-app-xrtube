@@ -2,7 +2,7 @@
 
 Customized Android, AndroidTV, iOS and tvOS builds for XR Tube brand of OwnTube-tv/web-client.
 
-Web version available at: https://owntube-tv.github.io/cust-app-xrtube/
+Web version available at: https://cust-app-xrtube.owntube.tv/
 
 App beta versions:
 
