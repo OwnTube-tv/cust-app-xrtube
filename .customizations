@@ -17,6 +17,7 @@ EXPO_PUBLIC_APPLE_TV_TOP_SHELF_WIDE_2X=../customizations/assets/AppleTvTopShelfW
 EXPO_PUBLIC_ANDROID_TV_BANNER=../customizations/assets/androidTvBanner_320x180.png
 EXPO_PUBLIC_ICON_192=../customizations/assets/icon_192x192.png
 EXPO_PUBLIC_ICON_512=../customizations/assets/icon_512x512.png
+EXPO_PUBLIC_HIDE_GIT_DETAILS=1
 EXPO_PUBLIC_FOOTER_LOGO=https://cust-app-xrtube.owntube.tv/logos/xrtube-footer.png
 EXPO_PUBLIC_CUSTOM_DEPLOYMENT_URL=cust-app-xrtube.owntube.tv
 EXPO_PUBLIC_PROVIDER_LEGAL_ENTITY="OwnTube Nordic AB"
